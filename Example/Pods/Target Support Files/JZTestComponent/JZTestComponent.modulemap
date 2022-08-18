@@ -1,0 +1,6 @@
+framework module JZTestComponent {
+  umbrella header "JZTestComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

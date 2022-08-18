@@ -1,0 +1,16 @@
+PODS:
+  - JZTestComponent (0.1.0)
+
+DEPENDENCIES:
+  - JZTestComponent (from `../`)
+
+EXTERNAL SOURCES:
+  JZTestComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JZTestComponent: 16ae1baa97b8e77bbbdc0f4b8894751c7717f80a
+
+PODFILE CHECKSUM: 7c9e54e13741412c43925a218163ce42e77d1582
+
+COCOAPODS: 1.11.3

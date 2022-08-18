@@ -1,6 +1,6 @@
 # JZTestComponent
 
-[![CI Status](https://img.shields.io/travis/黄健志/JZTestComponent.svg?style=flat)](https://travis-ci.org/黄健志/JZTestComponent)
+[![CI Status](https://img.shields.io/travis/GodHorses/JZTestComponent.svg?style=flat)](https://travis-ci.org/GodHorses/JZTestComponent)
 [![Version](https://img.shields.io/cocoapods/v/JZTestComponent.svg?style=flat)](https://cocoapods.org/pods/JZTestComponent)
 [![License](https://img.shields.io/cocoapods/l/JZTestComponent.svg?style=flat)](https://cocoapods.org/pods/JZTestComponent)
 [![Platform](https://img.shields.io/cocoapods/p/JZTestComponent.svg?style=flat)](https://cocoapods.org/pods/JZTestComponent)
@@ -22,7 +22,7 @@ pod 'JZTestComponent'
 
 ## Author
 
-黄健志, huangjz@galanz.com
+GodHorses, 774880975@qq.com
 
 ## License
 

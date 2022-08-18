@@ -7,6 +7,7 @@
 //
 
 #import "JZViewController.h"
+#import <JZTestComponent.h>
 
 @interface JZViewController ()
 
@@ -17,7 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	
+    JZTestComponent *compnet = [JZTestComponent new];
+    [compnet testPrint];
 }
 
 - (void)didReceiveMemoryWarning
