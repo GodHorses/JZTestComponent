@@ -15,6 +15,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)printHelloWorld;
 
++ (void)test;
+
 @end
 
 NS_ASSUME_NONNULL_END
