@@ -13,4 +13,8 @@
     NSLog(@"%s", __func__);
 }
 
++ (void)printHelloWorld{
+    NSLog(@"%s", __func__);
+}
+
 @end
